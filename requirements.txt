@@ -2,3 +2,4 @@ streamlit
 moviepy<2.0.0
 ffmpeg
 customtkinter
+Pillow<10.0.0
