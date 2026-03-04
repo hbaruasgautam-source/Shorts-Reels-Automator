@@ -1,9 +1,4 @@
 streamlit
-moviepy==1.0.3
-imageio
-imageio-ffmpeg
-numpy
-pillow==9.5.0
-proglog
-tqdm
-ffmpeg-python
+moviepy<2.0.0
+ffmpeg
+customtkinter
